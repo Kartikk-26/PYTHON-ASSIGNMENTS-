@@ -1,0 +1,18 @@
+a="Hello world"
+b=20
+c=30.5
+d=3j
+e=["apple","cherry","banana"]
+f=("apple","banana","cherry")
+g={"name":"john","age":36}
+i=True
+j=None
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(f))
+print(type(g))
+print(type(i))
+print(type(j))
